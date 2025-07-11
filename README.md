@@ -41,6 +41,7 @@ I believe the future of infrastructure must be **globally inclusive** — that�
 - 💌 Email: mariakcbaptista06@gmail.com  
 - 🌐 Portfolio coming soon  
 - 📚 Blog: In progress (first post: *“Monitoring Without Internet: Observability in Angola”*)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://ao.linkedin.com/in/maria-baptista-95b582280)
 
 ---
 
